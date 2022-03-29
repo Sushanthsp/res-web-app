@@ -1,0 +1,228 @@
+{
+  "users": [
+    {
+      "name": "Sushanth",
+      "email": "sushanth@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "fef",
+      "email": "wdw",
+      "password": "wwdwdw",
+      "id": 3
+    },
+    {
+      "name": "fgvf",
+      "email": "efw",
+      "password": "wdw",
+      "id": 4
+    },
+    {
+      "name": "ghbfg",
+      "email": "grfgrf",
+      "password": "rgreg",
+      "id": 5
+    },
+    {
+      "name": "bfd",
+      "email": "vgvd",
+      "password": "sf",
+      "id": 6
+    },
+    {
+      "name": "gfrwefew",
+      "email": "ewrfewfwe",
+      "password": "fewfwe",
+      "id": 7
+    },
+    {
+      "name": "gfrwefew",
+      "email": "ewrfewfwe",
+      "password": "fewfwe",
+      "id": 8
+    },
+    {
+      "name": "rg4",
+      "email": "r32r",
+      "password": "r3r4r",
+      "id": 9
+    },
+    {
+      "name": "rt4rt",
+      "email": "4t4t",
+      "password": "4tt4",
+      "id": 10
+    },
+    {
+      "name": "d",
+      "email": "dwq",
+      "password": "dwd",
+      "id": 11
+    },
+    {
+      "name": "fef",
+      "email": "efef",
+      "password": "fe",
+      "id": 12
+    },
+    {
+      "name": "fe",
+      "email": "fewfw",
+      "password": "wdw",
+      "id": 13
+    },
+    {
+      "name": "rfe",
+      "email": "dwqde",
+      "password": "dwde",
+      "id": 14
+    },
+    {
+      "name": "fewfe",
+      "email": "wdwqd",
+      "password": "wdsqws",
+      "id": 15
+    },
+    {
+      "name": "motu",
+      "email": "motu@gmail.com",
+      "password": "123456",
+      "id": 16
+    },
+    {
+      "name": "motu",
+      "email": "motu@gmail.com",
+      "password": "123456",
+      "id": 17
+    },
+    {
+      "name": "motu",
+      "email": "motu@gmail.com",
+      "password": "123456",
+      "id": 18
+    },
+    {
+      "name": "dwdwq",
+      "email": "qqqsqsq",
+      "password": "qsq",
+      "id": 19
+    },
+    {
+      "name": "t4",
+      "email": "4r3",
+      "password": "32r32",
+      "id": 20
+    },
+    {
+      "name": "fdvf",
+      "email": "edw",
+      "password": "rwd",
+      "id": 21
+    },
+    {
+      "name": "rfee",
+      "email": "fw",
+      "password": "wef",
+      "id": 22
+    },
+    {
+      "name": "rthreg",
+      "email": "fewfe",
+      "password": "efe",
+      "id": 23
+    },
+    {
+      "name": "fefwd",
+      "email": "wdw",
+      "password": "dw",
+      "id": 24
+    },
+    {
+      "name": "swdw",
+      "email": "dwd",
+      "password": "wdwd",
+      "id": 25
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 26
+    },
+    {
+      "name": "ew",
+      "email": "wd",
+      "password": "wdw",
+      "id": 27
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 28
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 29
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 30
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 31
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 32
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 33
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 34
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 35
+    },
+    {
+      "name": "fef",
+      "email": "dwdw",
+      "password": "dwd",
+      "id": 36
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "hotel",
+      "contact": 84646,
+      "address": "mng"
+    }
+  ]
+}
